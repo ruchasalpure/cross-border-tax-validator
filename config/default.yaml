@@ -1,6 +1,0 @@
-app:
-  name: "cross-border-tax-validator"
-  environment: "production"
-  logging:
-    level: "INFO"
-    format: "json"
