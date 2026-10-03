@@ -1,0 +1,5 @@
+domain_knowledge:
+  category: "legal"
+  agent: "cross-border-tax-validator"
+  ontology: "OpenGAP Core Ontology v1.0"
+  indexed_entities: 1024

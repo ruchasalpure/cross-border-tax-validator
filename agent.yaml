@@ -1,0 +1,26 @@
+spec_version: "0.1.0"
+name: "cross-border-tax-validator"
+version: "1.0.0"
+category: "legal"
+author: "Rucha Salpure"
+description: "Validates multilateral corporate transfer pricing arrangements against OECD BEPS Pillar Two global anti-base erosion rules and effective tax rate floors"
+capabilities:
+  - "pillar-two-top-up-tax-eval"
+  - "autonomous-decision-making"
+  - "explainable-auditing"
+  - "multi-agent-collaboration"
+skills:
+  - "pillar-two-top-up-tax-eval"
+tools:
+  - "python_executor"
+  - "audit_logger"
+  - "schema_validator"
+runtime:
+  environment: "python3.11"
+  memory_limit: "4GB"
+  timeout_seconds: 300
+governance:
+  audit_logging: true
+  human_in_the_loop: false
+  maker_checker: true
+  explainability_required: true

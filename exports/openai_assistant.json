@@ -1,0 +1,10 @@
+{
+  "name": "cross-border-tax-validator",
+  "instructions": "You are Cross Border Tax Validator. Provide structured, verified responses.",
+  "tools": [
+    {
+      "type": "code_interpreter"
+    }
+  ],
+  "model": "gpt-4o"
+}

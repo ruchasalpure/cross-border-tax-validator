@@ -1,0 +1,8 @@
+{
+  "agent_id": "cross-border-tax-validator",
+  "protocol": "opencode/v1",
+  "capabilities": [
+    "autonomous",
+    "governed"
+  ]
+}
